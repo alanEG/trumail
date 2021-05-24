@@ -5,8 +5,8 @@ import (
 	"net"
 	"os"
 	"strings"
-
-	"s32x.com/httpclient"
+	"httpclient"
+	
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 	"github.com/sdwolfe32/trumail/api"
